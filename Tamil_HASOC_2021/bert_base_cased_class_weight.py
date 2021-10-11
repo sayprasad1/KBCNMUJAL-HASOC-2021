@@ -10,9 +10,6 @@ Original file is located at
 from google.colab import files
 uploaded = files.upload()
 
-"""BERT Text Classification in a different language:
-https://towardsdatascience.com/bert-text-classification-in-a-different-language-6af54930f9cb
-"""
 
 # install simpletransformers
 !pip install simpletransformers
