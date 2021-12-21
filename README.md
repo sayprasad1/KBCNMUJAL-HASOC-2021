@@ -1,4 +1,4 @@
-# KBCNMUJAL-HASOC-2021
+# KBCNMUJAL-for Dravidian Languages in Code-Mixed Text
 Identification of sentiment analysis from social media contents has more attention in past decades.
 Such social media contents are code-mixed in nature and peoples find easy to express in this format.
 They can bind their mother tongue with English. This task deals with identifying sentiment analysis
